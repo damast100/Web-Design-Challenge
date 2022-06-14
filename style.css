@@ -1,0 +1,24 @@
+img {max-width: 100%;}
+
+.div {background-color: lightgrey;}
+
+.body {background-color: white;}
+
+.navigation {background-color: lightseagreen;}
+
+p {color: black; text-align: left;}
+
+.span {color: lightseagreen;}
+
+.text {color: white;}
+
+.padding {padding:12px;}
+
+.align {text-align: center;}
+
+.button {display: block;
+	 background-color: #F0FFFF;
+	 border-color: black;
+	 border-radius: 25px;	 
+}
+         
